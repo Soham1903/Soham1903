@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **react, python, django**
+- 💬 Ask me about **React, Python, Django, Java**
 
 - 📫 How to reach me **sohamladgaonkar19@gmail.com**
 
